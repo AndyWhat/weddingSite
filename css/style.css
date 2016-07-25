@@ -12,7 +12,6 @@
 
 .logo {
     position: relative;
-/*    left: 130px;*/
     left: 10%;
     width: 220px;
     height: 148px;
@@ -118,4 +117,164 @@
     left: 14px;
     top: -16px;
     z-index: 10;
+}
+
+.featured {
+    background: grey;
+    width: 130px;
+    height: 50px;
+    color: white;
+    text-align: right;
+    line-height: 50px;
+    font-size: 30px;  
+}
+
+.wed-photo-shot {
+    background: white;
+    color: grey;
+    height: 48px;
+    width: 270px;
+    text-align: center;
+    line-height: 48px;
+    font-size: 18px;
+    
+}
+
+.logo2 {
+    position: relative;
+    left:10%;
+    top: 82px;
+}
+
+.box1 {
+    background: url("../i/about/background.png") no-repeat center center;
+    height: 992px;
+    background-size: cover;
+    
+}
+
+.folio-1a {
+    position: relative;
+    left: 10%;
+    background-color: white;
+    color: #4c4c4c;
+    width: 220px;
+    height: 148px;
+    
+    
+    
+}
+
+.fol {
+    font-family: "Tahoma Regular", sans-serif;
+    font-size: 40px;
+    line-height: 22px;
+    padding-top: 47px;
+    padding-left: 43px;
+    
+}
+
+.h-and-d {
+    font-size: 14px;
+    line-height: 22px;
+    padding-top: 15px;
+    padding-left: 43px;
+    
+}
+
+.dot-green-a1 {
+     color: #86b11e;
+    margin-left: -10px;
+}
+
+.footer-menu {
+/*
+    position: absolute;
+    top: 974px;
+*/
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    padding-top: 14px;
+    padding-left: 11%;
+    list-style: none;
+    background-color: white;
+    height: 32px; 
+    
+    
+}
+
+.test-class-item-menu {
+    display: inline-block;
+    position: relative;
+}
+
+.test-class-item-menu:nth-child(2) {
+    margin-left: .95%;
+}
+
+.test-class-item-menu:nth-child(3) {
+    margin-left: 1%;
+}
+
+.test-class-item-menu:nth-child(4) {
+    margin-left: 1.65%;
+}
+
+.test-class-item-menu:nth-child(5) {
+    margin-left: 2.08%;
+}
+
+
+
+.test-class-item-a {
+    text-decoration: none;
+    color: #4c4c4c;
+    font-family: "Tahoma Regular", sans-serif;
+    font-size: 18px;
+   
+    
+    
+}
+
+.color-green-86b11e {
+    color: #86b11e;
+}
+
+.grey-stripe {
+    width: 622px;
+    height: 7px;
+    background-color: #9f9f9d;
+}
+
+.loading-bar-1 {
+    position: relative;
+    background: url("../i/index/loading-bar.png") repeat-x;
+    height: 7px;
+    width: 50%;
+    min-width: 450px;
+    top: 0px;
+}
+
+.box-footer-menu {
+    position: absolute;
+    width: 100%;
+    top: 967px;
+    
+}
+
+.indicator-1 {
+    position: absolute;
+    background: url("../i/index/indicator.png") no-repeat center center;
+    height: 13px;
+    width: 25px;
+    left: 14px;
+    top: -18px;
+    z-index: 10;
+}
+
+.copyright {
+    font-family: "Impact Regular", sans-serif;
+    font-size: 10px;
+
 }
